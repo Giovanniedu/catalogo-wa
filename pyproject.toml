@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "catalogo-wa"
+version = "0.2.1"
+description = "Genera una tienda web estatica (catalogo con carrito) que recibe pedidos por WhatsApp, desde un simple CSV. Sin servidores, sin dependencias."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+[project.scripts]
+catalogo-wa = "catalogo_wa.cli:main"
+[tool.setuptools.packages.find]
+where = ["src"]

@@ -1,0 +1,14 @@
+{
+  "negocio": "Calzado Hidalgo",
+  "telefono": "51947126510",
+  "moneda": "PEN",
+  "idioma": "es",
+  "color": "#4a00e0",
+  "bienvenida": "Calzado de cuero genuino — pide por WhatsApp",
+  "envio_costo": 10,
+  "envio_gratis_desde": 200,
+  "cupones": [
+    {"codigo": "BIENVENIDA10", "tipo": "porcentaje", "valor": 10},
+    {"codigo": "MENOS20", "tipo": "monto", "valor": 20}
+  ]
+}

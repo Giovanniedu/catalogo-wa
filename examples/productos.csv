@@ -1,0 +1,7 @@
+nombre,precio,descripcion,categoria,imagen_url,stock,descuento_pct,variantes
+Zapato de cuero marron,209.90,Cuero genuino,Calzado,,12,0,"38:4|39:5|40:3"
+Sandalia cangrejera,209.90,"Cuero, comoda para verano",Calzado,,8,10,"36:3|37:5"
+Sandalia fiesta champagne,75.90,Para eventos,Calzado,,20,0,
+Botin miel,269.90,Cuero con taco bajo,Calzado,,0,0,
+Cartera de cuero negra,189.00,Cuero genuino con correa,Accesorios,,6,15,
+Billetera de cuero,59.90,"Cuero, varios compartimentos",Accesorios,,25,0,"Negro:10|Marron:15"

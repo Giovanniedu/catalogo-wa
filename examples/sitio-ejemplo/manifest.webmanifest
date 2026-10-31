@@ -1,0 +1,8 @@
+{
+  "name": "Calzado Hidalgo",
+  "short_name": "Calzado Hida",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a00e0",
+  "start_url": "./index.html"
+}

@@ -1,0 +1,117 @@
+[
+  {
+    "id": "zapato-de-cuero-marron",
+    "nombre": "Zapato de cuero marron",
+    "precio": "209.90",
+    "precio_final": "209.90",
+    "descuento_pct": 0,
+    "categoria": "Calzado",
+    "descripcion": "Cuero genuino",
+    "imagen_url": "",
+    "stock": 12,
+    "agotado": false,
+    "variantes": [
+      {
+        "nombre": "38",
+        "stock": 4
+      },
+      {
+        "nombre": "39",
+        "stock": 5
+      },
+      {
+        "nombre": "40",
+        "stock": 3
+      }
+    ],
+    "precio_formato": "S/ 209.90"
+  },
+  {
+    "id": "sandalia-cangrejera",
+    "nombre": "Sandalia cangrejera",
+    "precio": "209.90",
+    "precio_final": "188.91",
+    "descuento_pct": 10,
+    "categoria": "Calzado",
+    "descripcion": "Cuero, comoda para verano",
+    "imagen_url": "",
+    "stock": 8,
+    "agotado": false,
+    "variantes": [
+      {
+        "nombre": "36",
+        "stock": 3
+      },
+      {
+        "nombre": "37",
+        "stock": 5
+      }
+    ],
+    "precio_formato": "S/ 188.91"
+  },
+  {
+    "id": "sandalia-fiesta-champagne",
+    "nombre": "Sandalia fiesta champagne",
+    "precio": "75.90",
+    "precio_final": "75.90",
+    "descuento_pct": 0,
+    "categoria": "Calzado",
+    "descripcion": "Para eventos",
+    "imagen_url": "",
+    "stock": 20,
+    "agotado": false,
+    "variantes": [],
+    "precio_formato": "S/ 75.90"
+  },
+  {
+    "id": "botin-miel",
+    "nombre": "Botin miel",
+    "precio": "269.90",
+    "precio_final": "269.90",
+    "descuento_pct": 0,
+    "categoria": "Calzado",
+    "descripcion": "Cuero con taco bajo",
+    "imagen_url": "",
+    "stock": 0,
+    "agotado": true,
+    "variantes": [],
+    "precio_formato": "S/ 269.90"
+  },
+  {
+    "id": "cartera-de-cuero-negra",
+    "nombre": "Cartera de cuero negra",
+    "precio": "189.00",
+    "precio_final": "160.65",
+    "descuento_pct": 15,
+    "categoria": "Accesorios",
+    "descripcion": "Cuero genuino con correa",
+    "imagen_url": "",
+    "stock": 6,
+    "agotado": false,
+    "variantes": [],
+    "precio_formato": "S/ 160.65"
+  },
+  {
+    "id": "billetera-de-cuero",
+    "nombre": "Billetera de cuero",
+    "precio": "59.90",
+    "precio_final": "59.90",
+    "descuento_pct": 0,
+    "categoria": "Accesorios",
+    "descripcion": "Cuero, varios compartimentos",
+    "imagen_url": "",
+    "stock": 25,
+    "agotado": false,
+    "variantes": [
+      {
+        "nombre": "Negro",
+        "stock": 10
+      },
+      {
+        "nombre": "Marron",
+        "stock": 15
+      }
+    ],
+    "precio_formato": "S/ 59.90"
+  }
+]
